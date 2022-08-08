@@ -1,0 +1,10 @@
+.add {
+    background-color: #ffd500;
+    color: black;
+    font-weight: bold;
+    border: none;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
